@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { Children, useState } from "react";
 
 const Card = () =>{
 
@@ -17,15 +17,15 @@ const Card = () =>{
             <h5 className="card-header">Meu Primeiro Card</h5>
             <div className="card-body">
                 <button 
-                    type="button" 
                     className="btn btn-success"
-                    onClick={Adicionar}>
+                    onClick={Adicionar}
+                >
                         Adicionar
                 </button>
                 <button 
-                    type="button" 
                     className="btn btn-danger"
-                    onClick={Subtrair}>
+                    onClick={Subtrair}
+                >
                         Remover
                 </button>
                 <p>{valor}</p>
