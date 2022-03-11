@@ -1,3 +1,6 @@
+<h1>Curso DIO - Trabalhando com Componentes em React</h1>
+<img src="https://docs.google.com/uc?id=1Bx04ufTjCsJ-bpMbkoZn8PuSNXjtlA2U">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
